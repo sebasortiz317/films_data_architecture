@@ -1,0 +1,5 @@
+# Excluir la carpeta DatosFromBucket
+DataFromBucket/
+parquets/
+# Excluir todos los documentos PDF en todo el repositorio
+*.pdf
